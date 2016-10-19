@@ -8,4 +8,3 @@ não sou forte em Javascript, porem não sei nada ainda Angular.
 
 Nao consegui acessar as api com PHP, deu erro que nao consegui tratar, porem com outra API consegui, por isso achei muito mais simples usar JS.
 
-Tambem nunca tinha consumido uma api antes , por isso a demora.
