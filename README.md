@@ -2,7 +2,7 @@
 
 Apenas 1 Arquivo Simples só copiar e executar.
 
-Só consegui Nome e Foto, os repositorios, estou vendo a questao de como acessar as informações array de informção
+Só consegui Nome e Foto, os repositorios, estou vendo a questao de como acessar as informações de array de informação da api de repositorio.
 
 OBS: Aprendendo Javascript, porem não sei Angular, estou estudando sobre.
 
